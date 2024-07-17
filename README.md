@@ -29,10 +29,10 @@ The series is co-designed by members of the following organisations and groups:
 
 <table align="center">
     <tr>
-        <td align="center"><img src="logos/talarify.png" alt="Talarify logo"></td>
-        <td align="center"><img src="logos/rsse-africa.png" alt="RSSE Africa logo"></td>
-        <td align="center"><img src="logos/rse-asia.png" alt="RSE Asia logo"></td>
-        <td align="center"><img src="logos/aren.png" alt="AREN logo"></td>
-        <td align="center"><img src="logos/resa.png" alt="ReSA logo"></td>
+        <td align="center"><img src="images/logos/talarify.png" alt="Talarify logo"></td>
+        <td align="center"><img src="images/logos/rsse-africa.png" alt="RSSE Africa logo"></td>
+        <td align="center"><img src="images/logos/rse-asia.png" alt="RSE Asia logo"></td>
+        <td align="center"><img src="images/logos/aren.png" alt="AREN logo"></td>
+        <td align="center"><img src="images/logos/resa.png" alt="ReSA logo"></td>
     </tr>
 </table>
