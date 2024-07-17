@@ -14,7 +14,7 @@ The series focuses on the link between research software (and systems) and open 
 
 The series is co-designed by members of the following organisations and groups:
 
-- [Talarify](https://talarify.co.za): Anelda van der Walt ![]("https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png")
+- [Talarify](https://talarify.co.za): Anelda van der Walt <a href="https://orcid.org/0000-0003-4245-8119"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />https://orcid.org/0000-0003-4245-8119</a>
 - [RSSE Africa](https://rsse.africa)
 - [RSE Asia](https://rse-asia.github.io/RSE_Asia/)
 - [The African Reproducibility Network](https://africanrn.org/)
