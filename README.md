@@ -36,3 +36,35 @@ The series is co-designed by members of the following organisations and groups:
         <td align="center"><img src="images/logos/resa.png" alt="ReSA logo"></td>
     </tr>
 </table>
+
+
+## What is research software?
+
+> Research Software includes source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose.
+> Software components (e.g., operating systems, libraries, dependencies, packages, scripts, etc.) that are used for research but were not created during or with a clear research intent
+> should be considered software in research and not Research Software. This differentiation may vary between disciplines. The minimal requirement for achieving computational reproducibility
+> is that all the computational components (Research Software, software used in research, documentation and hardware) used during the research are identified, described, and made accessible
+> to the extent that is possible.
+
+_Read the full FAIR for Research Software working group (FAIR4RS) report at https://doi.org/10.5281/zenodo.5504015_.
+
+
+## What is open science?
+
+> Open science is a set of principles and practices that aim to make scientific research from all fields accessible to everyone for the benefit of scientists and society as a whole.
+> Open science is about making sure not only that scientific knowledge is accessible but also that the production of that knowledge itself is inclusive, equitable and sustainable.
+
+_Read more about Open Science on the [UNESCO Open Science pages](https://www.unesco.org/en/open-science/about?hub=686)_.
+
+## Why do we talk about _OPEN SCIENCE_ and _RESEARCH SOFTWARE_ together?
+
+Although many people realise that open-access publications enable open science, the link between open science and the software created for data wrangling, analysis, visualisation, and more isn't always clear. The UNESCO Recommendations on Open Science reference 14 open science pillars. Under _Open Science Knowledge_, we find the _Open Source Software and Source Code_ pillar, and under _Open Science Infrastructures_, we find both physical and virtual infrastructure that enables research (this includes infrastructure that enables data storage and analyses).
+
+![Open Science Pillars](images/openscience-pillars.png)
+
+<a href="https://commons.wikimedia.org/wiki/File:UNESCO-Open_science-pillars-en.png">Open Science Pillars. UNESCO.org</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+
+
+
+
+
