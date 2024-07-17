@@ -15,7 +15,7 @@ The series focuses on the link between research software (and systems) and open 
 The series is co-designed by members of the following organisations and groups:
 
 
-| Organisation/Group | People | ORCID |
+| Organisation  | People | ORCID |
 |-|-|-|
 | [Talarify](https://talarify.co.za) | _Anelda van der Walt_ | <a href="https://orcid.org/0000-0003-4245-8119"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />https://orcid.org/0000-0003-4245-8119</a> |
 |  [RSSE Africa](https://rsse.africa) |_Mireille Grobbelaar_ |<a href="https://orcid.org/0000-0002-1959-4756"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />https://orcid.org/0000-0002-1959-4756</a> |
@@ -24,7 +24,8 @@ The series is co-designed by members of the following organisations and groups:
 | | _Saranjeet Kaur_ | <a href="https://orcid.org/0000-0002-7038-1457"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />https://orcid.org/0000-0002-7038-1457</a> |
 | [The African Reproducibility Network](https://africanrn.org/) | _Emmanuel Boakye_ | <a href="https://orcid.org/0000-0003-2043-5952"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />https://orcid.org/0000-0003-2043-5952</a> |
 | | _Lamis Elkheir_ | <a href="https://orcid.org/0000-0002-3516-334X"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />https://orcid.org/0000-0002-3516-334X</a> |
-| [The Research Software Alliance](https://www.researchsoft.org/) | | |
+| [The Research Software Alliance](https://www.researchsoft.org/) | Talarify | ReSA African Community Engagement Partner |
+| | RSE Asia | ReSA Asian Community Engagement Partner |
 
 <table align="center">
     <tr>
