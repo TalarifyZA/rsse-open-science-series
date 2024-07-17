@@ -6,7 +6,7 @@ This repository provides a way for the organisers of the planned 12+month series
 
 ## About the RSSE Open Science Series
 
-We are planning a monthly virtual discussion series aimed at increasing the participation of African and Asian researchers involved in developing and maintaining research software and systems (data/computing hardware) in the [global RSE movement.](https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0).
+We are planning a monthly virtual discussion series aimed at increasing the participation of __African__ and __Asian__ researchers involved in developing and maintaining research software and systems (data/computing hardware) in the [global RSE movement.](https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0).
 
 The series focuses on the link between research software (and systems) and open science and how these technologies can and should be employed to enable open science.
 
