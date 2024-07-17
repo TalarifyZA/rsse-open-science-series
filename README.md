@@ -58,13 +58,20 @@ _Read more about Open Science on the [UNESCO Open Science pages](https://www.une
 
 ## Why do we talk about _OPEN SCIENCE_ and _RESEARCH SOFTWARE_ together?
 
-Although many people realise that open-access publications enable open science, the link between open science and the software created for data wrangling, analysis, visualisation, and more isn't always clear. The [UNESCO Recommendations on Open Science](https://www.unesco.org/en/open-science/about?hub=686) reference 14 open science pillars. Under _Open Science Knowledge_, we find the _Open Source Software and Source Code_ pillar, and under _Open Science Infrastructures_, we find both physical and virtual infrastructure that enables research (this includes infrastructure that enables data storage and analyses).
+Although many people realise that open-access publications enable open science, the link between open science and the software created for data wrangling, analysis, visualisation, and more isn't always clear. The [UNESCO Recommendations on Open Science](https://www.unesco.org/en/open-science/about?hub=686) reference 14 open science pillars. Under _Open Science Knowledge_, we find the _Open Source Software and Source Code_ pillar, and under _Open Science Infrastructures_, we see both physical and virtual infrastructure that enables research (this includes infrastructure that enables data storage and analyses).
 
 ![Open Science Pillars](images/openscience-pillars.png)
 
 <a href="https://commons.wikimedia.org/wiki/File:UNESCO-Open_science-pillars-en.png">Open Science Pillars. UNESCO.org</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 
 
+## Want to contribute?
 
+We seek speakers with experience in making novel concepts accessible to diverse audiences. You should keep in mind:
+- open science is, in many cases, not yet implemented, and awareness levels may be low
+- our audience mostly use English as a second, third or fourth language
+- the term _research software engineer_ is not established in Africa or Asia
+
+Don't hesitate to contact us at [rsse-africa@talarify.co.za](mailto:rsse-africa@talarify.co.za) if you have any questions or would like to volunteer as a speaker on one of our topics.
 
 
